@@ -14,3 +14,6 @@ In this chapter, we will initialize our first Node.js project and create a first
 
 ### Using Express
 In this chapter, we create a web service using the express. The express is Node.js web application framework that makes easier to develop web application with Node.js.
+
+### Create Rest API
+In this chapter, we learn the basics of REST API. We will also create a REST API that provides all CRUD operations.
