@@ -17,3 +17,6 @@ In this chapter, we create a web service using the express. The express is Node.
 
 ### Create Rest API
 In this chapter, we learn the basics of REST API. We will also create a REST API that provides all CRUD operations.
+
+### Using Database with Node.js
+In this chapter, we start to use PostgreSQL database. We continue with the REST API that we created in the next chapter and integrate database to our REST API.
