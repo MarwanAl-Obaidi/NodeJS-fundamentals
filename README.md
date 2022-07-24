@@ -20,3 +20,9 @@ In this chapter, we learn the basics of REST API. We will also create a REST API
 
 ### Using Database with Node.js
 In this chapter, we start to use PostgreSQL database. We continue with the REST API that we created in the next chapter and integrate database to our REST API.
+
+### Using MongoDB
+With the knowledge of the previous chapter, we start to use MongoDB.
+
+### Template Engines
+In this chapter, we will learn how to create user interface using the Pug template engine.
