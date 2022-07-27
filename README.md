@@ -24,5 +24,9 @@ In this chapter, we start to use PostgreSQL database. We continue with the REST 
 ### Using MongoDB
 With the knowledge of the previous chapter, we start to use MongoDB.
 
+### Testing
+
+In this chapter, we will learn how to create unit and integration tests in Node.js applications. We will create tests to our REST API that we created in the previous chapters.
+
 ### Template Engines
 In this chapter, we will learn how to create user interface using the Pug template engine.
